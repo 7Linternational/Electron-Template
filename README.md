@@ -14,4 +14,4 @@ npm run release
 
 ```
 
-#### Note: for macOS build you need XCode, for linux (?)
+#### Note: for macOS build you need XCode
